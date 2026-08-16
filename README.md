@@ -22,9 +22,11 @@ My approach is **diagnose before automate**: first understand the real process, 
 
 A concept workflow for turning complex business documents into structured, decision-ready information through AI-assisted processing and human review.
 
+![Document to Decision demonstration](assets/document-to-decision-workflow.svg)
+
 **Possible inputs:** reports, proposals, contracts, policies, spreadsheets, emails, and other document-heavy work.
 
-[View the case →](cases/document-to-decision/README.md)
+[View the full case →](cases/document-to-decision/README.md)
 
 ## Design principles
 
