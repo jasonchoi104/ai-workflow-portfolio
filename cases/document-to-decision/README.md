@@ -16,7 +16,7 @@ The challenge is not simply summarisation. The real workflow problem is turning 
 4. **Human review** — verify accuracy, add domain knowledge, resolve ambiguity, and edit the output.
 5. **Decision-ready output** — prepare useful formats such as an executive summary, structured data, action plan, or report.
 
-![AI Document-to-Decision Workflow](../../assets/document-to-decision-workflow.png)
+![AI Document-to-Decision Workflow](../../assets/document-to-decision-workflow.svg)
 
 ## Intended value
 
